@@ -25,7 +25,8 @@ export default function SimplePaper() {
     <div  style = {{padding:"50px",fontSize:"2vw",alignItems:"center",backgroundImage:`url(${bgImage})`,backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
-
+    wordSpacing: "8px",
+    letterSpacing:"1.5px"  
   }}>
 <Paper elevation={0} style={{backgroundColor: "#ffffff",
   border: "1px solid black",
@@ -36,7 +37,7 @@ export default function SimplePaper() {
 
 <span style = {{padding:"10px",fontWeight:"bold",fontSize:"5vw"}}>About</span>
 <br></br>
-<span style={{fontFamily: "Papyrus",fontWeight:"bold"}}>
+<span style={{fontWeight:"bold"}}>
 The Every events Starts with ah story
 The dreams which you have , we do turn into reality, and conjure a wonderful collaborative magic to create celebrations that are both unmatched and unforgettable .
 Don`t  spoil it by running around to make arrangements, you sit and enjoy the beautiful moments and leave the rest to us , we do make it more memorable and worthier.
