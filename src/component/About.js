@@ -23,7 +23,9 @@ export default function SimplePaper() {
   return (
     <div  style = {{padding:"50px",fontSize:"2vw",alignItems:"center",backgroundImage:`url(${bgImage})`,backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
-    backgroundSize: "cover"
+    backgroundSize: "cover",
+    height:"100%",
+    width:"100%"
   }}>
 <Paper elevation={0} style={{backgroundColor: "#ffffff",
   border: "1px solid black",
