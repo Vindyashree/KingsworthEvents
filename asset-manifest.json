@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/KingsworthEvents/static/css/main.5964c7e4.chunk.css",
+    "main.js": "/KingsworthEvents/static/js/main.7f12389b.chunk.js",
+    "main.js.map": "/KingsworthEvents/static/js/main.7f12389b.chunk.js.map",
+    "runtime-main.js": "/KingsworthEvents/static/js/runtime-main.23d2d34f.js",
+    "runtime-main.js.map": "/KingsworthEvents/static/js/runtime-main.23d2d34f.js.map",
+    "static/js/2.2b37e16e.chunk.js": "/KingsworthEvents/static/js/2.2b37e16e.chunk.js",
+    "static/js/2.2b37e16e.chunk.js.map": "/KingsworthEvents/static/js/2.2b37e16e.chunk.js.map",
+    "static/js/3.0595a250.chunk.js": "/KingsworthEvents/static/js/3.0595a250.chunk.js",
+    "static/js/3.0595a250.chunk.js.map": "/KingsworthEvents/static/js/3.0595a250.chunk.js.map",
+    "index.html": "/KingsworthEvents/index.html",
+    "static/css/main.5964c7e4.chunk.css.map": "/KingsworthEvents/static/css/main.5964c7e4.chunk.css.map",
+    "static/js/2.2b37e16e.chunk.js.LICENSE.txt": "/KingsworthEvents/static/js/2.2b37e16e.chunk.js.LICENSE.txt",
+    "static/media/M1.2d643ee3.jpg": "/KingsworthEvents/static/media/M1.2d643ee3.jpg",
+    "static/media/backgroundImageForService.8ba27e6c.jpg": "/KingsworthEvents/static/media/backgroundImageForService.8ba27e6c.jpg",
+    "static/media/logo.7fa1ae27.jpg": "/KingsworthEvents/static/media/logo.7fa1ae27.jpg",
+    "static/media/m2.9e1278b7.jpg": "/KingsworthEvents/static/media/m2.9e1278b7.jpg",
+    "static/media/m3.c5cc7373.jpg": "/KingsworthEvents/static/media/m3.c5cc7373.jpg",
+    "static/media/m4.12597c95.jpg": "/KingsworthEvents/static/media/m4.12597c95.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23d2d34f.js",
+    "static/js/2.2b37e16e.chunk.js",
+    "static/css/main.5964c7e4.chunk.css",
+    "static/js/main.7f12389b.chunk.js"
+  ]
+}
