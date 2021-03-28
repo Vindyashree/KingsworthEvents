@@ -21,11 +21,12 @@ export default function SimplePaper() {
   const classes = useStyles();
 
   return (
+    <div style = {{    height:"100%",}}>
     <div  style = {{padding:"50px",fontSize:"2vw",alignItems:"center",backgroundImage:`url(${bgImage})`,backgroundPosition: "center",
     backgroundRepeat: "no-repeat",
     backgroundSize: "cover",
-    height:"100%",
-    width:"100%"
+
+   
   }}>
 <Paper elevation={0} style={{backgroundColor: "#ffffff",
   border: "1px solid black",
@@ -49,5 +50,7 @@ we are kingsworth events , and the best events we have done is going to be yours
 
 </Paper>
     </div>
+    </div>
+
   );
 }
